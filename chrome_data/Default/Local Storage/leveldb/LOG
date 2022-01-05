@@ -1,2 +1,3 @@
-2022/01/05-22:48:38.374 1180 Creating DB C:\shopee\output\shopee/chrome_data\Default\Local Storage\leveldb since it was missing.
-2022/01/05-22:48:38.382 1180 Reusing MANIFEST C:\shopee\output\shopee/chrome_data\Default\Local Storage\leveldb/MANIFEST-000001
+2022/01/05-23:16:19.173 b48 Reusing MANIFEST C:\shopee\output\shopee/chrome_data\Default\Local Storage\leveldb/MANIFEST-000001
+2022/01/05-23:16:19.173 b48 Recovering log #3
+2022/01/05-23:16:19.174 b48 Reusing old log C:\shopee\output\shopee/chrome_data\Default\Local Storage\leveldb/000003.log 
