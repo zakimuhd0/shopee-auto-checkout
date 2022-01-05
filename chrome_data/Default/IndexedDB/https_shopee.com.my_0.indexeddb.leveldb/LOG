@@ -1,6 +1,6 @@
-2021/12/17-02:20:10.485 2634 Creating DB C:\shopee\output\shopee/chrome_data\Default\IndexedDB\https_shopee.com.my_0.indexeddb.leveldb since it was missing.
-2021/12/17-02:20:10.493 2634 Reusing MANIFEST C:\shopee\output\shopee/chrome_data\Default\IndexedDB\https_shopee.com.my_0.indexeddb.leveldb/MANIFEST-000001
-2021/12/17-02:20:10.615 c94 Level-0 table #5: started
-2021/12/17-02:20:10.620 c94 Level-0 table #5: 610 bytes OK
-2021/12/17-02:20:10.622 c94 Delete type=0 #3
-2021/12/17-02:20:10.623 c94 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/01/05-22:48:39.173 1180 Creating DB C:\shopee\output\shopee/chrome_data\Default\IndexedDB\https_shopee.com.my_0.indexeddb.leveldb since it was missing.
+2022/01/05-22:48:39.179 1180 Reusing MANIFEST C:\shopee\output\shopee/chrome_data\Default\IndexedDB\https_shopee.com.my_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/05-22:48:39.204 2920 Level-0 table #5: started
+2022/01/05-22:48:39.208 2920 Level-0 table #5: 610 bytes OK
+2022/01/05-22:48:39.212 2920 Delete type=0 #3
+2022/01/05-22:48:39.212 2920 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
