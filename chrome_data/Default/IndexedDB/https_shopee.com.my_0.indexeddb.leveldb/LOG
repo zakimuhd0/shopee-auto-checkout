@@ -1,7 +1,0 @@
-2022/01/05-23:16:19.912 b48 Reusing MANIFEST C:\shopee\output\shopee/chrome_data\Default\IndexedDB\https_shopee.com.my_0.indexeddb.leveldb/MANIFEST-000001
-2022/01/05-23:16:19.913 b48 Recovering log #3
-2022/01/05-23:16:19.913 b48 Reusing old log C:\shopee\output\shopee/chrome_data\Default\IndexedDB\https_shopee.com.my_0.indexeddb.leveldb/000003.log 
-2022/01/05-23:16:20.021 2a0c Level-0 table #5: started
-2022/01/05-23:16:20.025 2a0c Level-0 table #5: 5674 bytes OK
-2022/01/05-23:16:20.027 2a0c Delete type=0 #3
-2022/01/05-23:16:20.027 2a0c Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
