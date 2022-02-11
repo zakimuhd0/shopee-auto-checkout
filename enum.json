@@ -1,0 +1,14 @@
+{
+  "version": 2.3,
+  "engNav": "//span[@class='_2KxI7k']",
+  "login": "//a[@class='navbar__link navbar__link--account navbar__link--login navbar__link--tappable navbar__link--hoverable navbar__link-text navbar__link-text--medium navbar__link-text--normal-case']",
+  "username": "//div[@class='navbar__username']",
+  "buyNow": "//button[@class='btn btn-solid-primary btn--l rvHxix']",
+  "engLang": "//button[@class='shopee-button-outline shopee-button-outline--primary-reverse ']",
+  "homePopup": "//div[@class='shopee-popup__close-btn']",
+  "maxQty": "//div[contains(text(),'piece available')]",
+  "qtyInput": "//input[@class='_14flVw z4c5Da']",
+  "miniChat": "//div[@id='shopee-mini-chat-embedded']",
+  "checkout": "//button[@class='shopee-button-solid shopee-button-solid--primary']",
+  "placeOrder": "//button[@class='stardust-button stardust-button--primary stardust-button--large _1qSlAe']"
+}
