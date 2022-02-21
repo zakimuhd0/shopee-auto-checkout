@@ -3,6 +3,7 @@
   "engNav": "//span[@class='_2KxI7k']",
   "login": "//a[@class='navbar__link navbar__link--account navbar__link--login navbar__link--tappable navbar__link--hoverable navbar__link-text navbar__link-text--medium navbar__link-text--normal-case']",
   "username": "//div[@class='navbar__username']",
+  "imageUrl": "//img[@class='shopee-avatar__img']",
   "buyNow": "//button[@class='btn btn-solid-primary btn--l rvHxix']",
   "engLang": "//button[@class='shopee-button-outline shopee-button-outline--primary-reverse ']",
   "homePopup": "//div[@class='shopee-popup__close-btn']",
